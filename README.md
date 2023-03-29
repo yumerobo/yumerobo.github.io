@@ -1,16 +1,24 @@
-### Hi there 👋
+# Papyrus - Jekyll Theme
 
-<!--
-**yumerobo/yumerobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Papyrus is a responsive three-column Jekyll theme with classic styling and careful typographic details.
 
-Here are some ideas to get you started:
+Loosely based on the [Onelight Atom Theme](https://github.com/atom/one-light-ui).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Install and Test
+
+1. Download or clone the repo
+  - `git clone git@github.com:hugoferreira/papyrus-theme.git`
+2. Enter the folder
+  - `cd papyrus-theme/`
+3. Start Jekyll server
+  - `jekyll serve --watch`
+4. Access via
+  - http://127.0.0.1:4000/papyrus-theme/
+
+## Demo
+
+- http://hugosereno.eu
+
+## Preview
+
+![Theme preview](/assets/screenshot.png)
