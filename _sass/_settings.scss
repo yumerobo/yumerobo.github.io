@@ -1,0 +1,33 @@
+$base-font-size:    12pt;
+$base-font-weight:  400;
+$bold-font-weight:  600;
+$base-line-height:  1.7;
+
+$sans-font-family:  -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Roboto, Tahoma, Arial, 
+'Source Han Sans SC', 'Noto Sans CJK SC', 'PingFang SC', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif, 
+'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+$serif-font-family: -apple-system, BlinkMacSystemFont, 'Merriweather', Georgia, Times, 'Times New Roman', 
+'Source Han Serif SC', 'Noto Serif CJK SC', STZhongsong, STSong, serif, 
+'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+$serif-font-weight: 600;
+
+$quote-font-family: -apple-system, BlinkMacSystemFont, 'Noto Serif', Georgia, Times, 'Times New Roman', 
+'Source Han Serif SC', 'Noto Serif CJK SC', STSong, serif, STFangsong, STKaiti, KaiTi_GB2312, KaiTi, SimSun, serif;
+
+$small-font-size:  11pt;
+
+$mono-font-family: 'Fira Code', Consolas;
+$mono-font-size:   11pt;
+
+$text-color:       hsl(0, 0%, 25%);
+
+$alt-color:        hsl(0, 70%, 46%);
+$alt-color-darker: darken($alt-color, 6%);
+
+$article-bg-color: rgb(250, 250, 250);
+$background-color: darken($article-bg-color, 6%);
+$bg-color-darker:  darken($article-bg-color, 15%);
+$alt-text-color:   darken($article-bg-color, 60%);
+
+$subdued-border:   rgba($bg-color-darker, 0.5);
