@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FLCL：书写自身的同人志
+title: 书写自身的同人志
 categories: Anime
 ---
 

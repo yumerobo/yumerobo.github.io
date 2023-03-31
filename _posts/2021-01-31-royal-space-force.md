@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 王立宇宙军：错位、误认与重叠
+title: 错位、误认与重叠
 categories: Anime
 ---
 
