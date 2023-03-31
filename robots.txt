@@ -2,5 +2,3 @@ User-Agent: *
 Disallow: /.bundle/
 Disallow: /.gitignore
 Allow: /
-
-Sitemap: http://hugosereno.eu/sitemap.xml
