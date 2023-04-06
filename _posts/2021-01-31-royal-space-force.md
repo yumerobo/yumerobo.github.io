@@ -70,4 +70,4 @@ categories: Anime
 
 [齐泽克：意识形态的崇高客体，季广茂译，中央编译出版社，2017](https://book.douban.com/subject/27098940)
 
-[高濑司：《新世纪福音战士》论-为《EVA》所做的准备，Anitama,2017](http://www.anitama.cn/article/d718a1d79d4bc153)
+[高濑司：《新世纪福音战士》论-为《EVA》所做的准备，Anitama，2017](http://www.anitama.cn/article/d718a1d79d4bc153)
