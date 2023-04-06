@@ -7,7 +7,8 @@ colophon: "© 造梦机械 2021, Created with <a href='https://jekyllrb.com'>Jek
 baseurl: ""
 url: "https://yumerobo.github.io"
 
-email: yumerobo@outlook.comgem
+feed: https://yumerobo.github.io/feed.xml
+email: yumerobo@outlook.com
 bili_uid: 2044522691
 
 google-analytics: 
