@@ -1,11 +1,16 @@
 <div class="row navbar">
     <div class="col-6">
+
+        {% if site.feed %}
+        <a href="{{ site.feed }}" target="_blank" title="RSS"><iconify-icon icon="fa6-solid:rss" style="color: #bfbfbf"></iconify-icon></a>
+        {% endif %} 
         {% if site.email %}
-        <a href="mailto:{{ site.email }}" title="email"><iconify-icon icon="fa-solid:envelope" style="color: #bfbfbf"></iconify-icon></a>
+        <a href="mailto:{{ site.email }}" title="email"><iconify-icon icon="fa6-solid:envelope" style="color: #bfbfbf"></iconify-icon></a>
         {% endif %}
         {% if site.bili_uid %}
         <a href="https://space.bilibili.com/{{ site.bili_uid }}" target="_blank" title="bilibili"><iconify-icon icon="fa6-brands:bilibili" style="color: #bfbfbf"></iconify-icon></a>
         {% endif %} 
+        
     </div>
     <div class="col-6 text-right">
         <a href="/"><iconify-icon icon="fa-solid:home" style="color: #bfbfbf"></iconify-icon></a>
