@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "zh"
-languageName = "中文"
+languageCode = "en"
+languageName = "English"
 weight = 1
 title = "Blowfish"
 
 [params]
-  displayName = "中文"
-  isoCode = "zh"
+  displayName = "EN"
+  isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
