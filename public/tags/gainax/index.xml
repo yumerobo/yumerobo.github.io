@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GAINAX on 造梦机械</title>
+    <link>http://localhost:8827/tags/gainax/</link>
+    <description>Recent content in GAINAX on 造梦机械</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>youremail@example.com (造梦机械)</managingEditor>
+    <webMaster>youremail@example.com (造梦机械)</webMaster>
+    <copyright>© 2024 造梦机械</copyright>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8827/tags/gainax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>王立宇宙军：错位、误认与重叠</title>
+      <link>http://localhost:8827/posts/2021-01-31-royal-space-force/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (造梦机械)</author>
+      <guid>http://localhost:8827/posts/2021-01-31-royal-space-force/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:8827/posts/2021-01-31-royal-space-force/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

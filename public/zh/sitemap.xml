@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:7585/zh/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-hans"
+      href="http://localhost:7585/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="http://localhost:7585/zh/"
+    />
+  </url>
+</urlset>
