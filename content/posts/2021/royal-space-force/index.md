@@ -4,7 +4,6 @@ title: "王立宇宙军：错位、误认与重叠"
 summary: ""
 categories: ["动画"]
 tags: ["GAINAX"]
-
 ---
 
 
@@ -12,8 +11,8 @@ tags: ["GAINAX"]
 
 <table>
   <tr>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/01.jpg" alt="01"></td>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/02.jpg" alt="02"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/01.jpg" alt="01"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/02.jpg" alt="02"></td>
   </tr>
 </table>
 
@@ -21,8 +20,8 @@ tags: ["GAINAX"]
 
 <table>
   <tr>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/03.jpg" alt="03"></td>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/04.jpg" alt="04"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/03.jpg" alt="03"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/04.jpg" alt="04"></td>
   </tr>
 </table>
 
@@ -52,8 +51,8 @@ tags: ["GAINAX"]
 
 <table>
   <tr>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/07.jpg" alt="07"></td>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/08.jpg" alt="08"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/07.jpg" alt="07"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/08.jpg" alt="08"></td>
   </tr>
 </table>
 
@@ -63,8 +62,8 @@ tags: ["GAINAX"]
 
 <table>
   <tr>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/09.jpg" alt="09"></td>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/10.jpg" alt="10"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/09.jpg" alt="09"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/10.jpg" alt="10"></td>
   </tr>
 </table>
 
@@ -76,8 +75,8 @@ tags: ["GAINAX"]
 
 <table>
   <tr>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/11.jpg" alt="11"></td>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/12.jpg" alt="12"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/11.jpg" alt="11"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/12.jpg" alt="12"></td>
   </tr>
 </table>
 
@@ -89,8 +88,8 @@ tags: ["GAINAX"]
 
 <table>
   <tr>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/13.jpg" alt="13"></td>
-    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021-01-31-royal-space-force/img/14.jpg" alt="14"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/13.jpg" alt="13"></td>
+    <td><img class="my-0 rounded-md medium-zoom-image" loading="lazy" src="/posts/2021/royal-space-force/img/14.jpg" alt="14"></td>
   </tr>
 </table>
 

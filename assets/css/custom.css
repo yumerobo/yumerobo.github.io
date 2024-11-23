@@ -1,5 +1,9 @@
 /* change blockquote style in main.css */
 .prose :where(blockquote):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
     font-style: normal;
-
+}
+/* change figcaption font in main.css */
+.prose :where(figcaption):not(:where([class~=not-prose],[class~=not-prose] *)) {
+    font-family: "Biaodian Pro Sans GB", "Helvetica Neue", Helvetica, Arial, "Han Heiti GB", sans-serif;
+    font-size: 14px;
 }
