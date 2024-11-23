@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:6204/</loc>
+    <loc>http://localhost:9111/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:6204/posts/2021/fooly-cooly/</loc>
+    <loc>http://localhost:9111/posts/2021/fooly-cooly/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:6204/posts/</loc>
+    <loc>http://localhost:9111/posts/</loc>
     <lastmod>2021-03-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:6204/posts/2021/royal-space-force/</loc>
+    <loc>http://localhost:9111/posts/2021/royal-space-force/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on 造梦机械</title>
-    <link>http://localhost:9111/series/</link>
-    <description>Recent content in Series on 造梦机械</description>
+    <title>标签 on 造梦机械</title>
+    <link>http://localhost:9111/category/</link>
+    <description>Recent content in 标签 on 造梦机械</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>youremail@example.com (造梦机械)</managingEditor>
     <webMaster>youremail@example.com (造梦机械)</webMaster>
     <copyright>© 2024 造梦机械</copyright>
-    <atom:link href="http://localhost:9111/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:9111/category/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
